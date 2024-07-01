@@ -10,7 +10,7 @@ This is a Simple Shopping App! This application allows users to browse products,
 - [APK Download](#apk-download)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+-
 
 ## Features
 
@@ -33,8 +33,8 @@ This is a Simple Shopping App! This application allows users to browse products,
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/simple-shopping-app.git
-   cd simple-shopping-app
+   git clone https://github.com/MakindeTobby/simple-ecommerce-app-HNG.git
+   cd simple-ecommerce-app-HNG
    ```
 
 2. Install dependencies:
@@ -104,7 +104,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
    git push origin feature/your-feature-name
    ```
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
