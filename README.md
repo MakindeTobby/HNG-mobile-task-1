@@ -77,7 +77,7 @@ This is a Simple Shopping App! This application allows users to browse products,
 
 You can download the latest APK from the following link:
 
-[Download APK](https://example.com/path/to/your/apk)
+[Download APK](https://expo.dev/artifacts/eas/7kc4KrvSooRYnbWNVhjuMN.apk)
 
 ## Usage
 
